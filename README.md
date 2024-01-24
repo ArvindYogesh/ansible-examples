@@ -1,3 +1,3 @@
 # ansible-examples
 ansible example
-This is my first anisible examples
+This is my first ansible examples
