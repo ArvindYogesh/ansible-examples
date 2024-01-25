@@ -1,5 +1,6 @@
 [web_servers]
 10.0.2.4
+10.0.2.6
 
 [db_servers]
 10.0.2.5
@@ -8,3 +9,6 @@
 [file_servers]
 10.0.2.5
 10.0.2.6
+
+[workstations]
+10.0.2.15
